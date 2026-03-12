@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue/React/ts**
 
-- 📫 How to reach me **muyouz_zqa@163.com**
+- 📫 How to reach me **muyouz.233@gmail.com**
 
 - ⚡ **Show me the code and I'll try it.**
 
